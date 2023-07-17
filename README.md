@@ -45,6 +45,8 @@ Via Postman or Thunder Client, we can test our CRUD operations for the following
 
 PostgreSQL database is hosted on Render and can be accessed via Postico and managed via `https://dashboard.render.com/d/dpg-che8gfu7avja5mbvemdg-a`.
 
+For tests, run `npm test`
+
 
 ## Features
 
@@ -62,6 +64,7 @@ Currently supported features, include:
 ### future features
 #### server-side
 - tests via Jest and SuperTest
+- move `Post` API behind authentication
 - support of CRUD operations for `Quote`, and future entities (`Workout`, `Habit`)
 - support for search and pagination on `Post`
   
