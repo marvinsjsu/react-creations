@@ -17,7 +17,7 @@ This is the back-end application that supports features for the MyMoments mobile
 
 ## Project Description
 
-This project provides the endpoints to be used by the [MyMoments mobile app](https://github.com/marvinsjsu/my-moments), which is currently in active development.  This application supports the user registration flow, authentication, and eventually the CRUD operations for `Post`, `Quote`, and `User` entities.
+This project provides the endpoints to be used by the [MyMoments mobile app](https://github.com/marvinsjsu/my-moments), which is in active development.  This application supports the user registration flow, authentication, and eventually the CRUD operations for `Post`, `Quote`, and `User` entities.
 
 
 ## Installation
